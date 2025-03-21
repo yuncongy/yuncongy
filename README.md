@@ -5,7 +5,7 @@ I am a current USC graduate student studying computer science.
 - 🔭 I’m currently working on Machine Learning Projects that involve predictive modeling and fun datasets like gamma rays and bike rentals!
 - 🌱 I’m currently learning Web Development and computer network protocols.
 - 👯 I’m looking to collaborate on open-source projects, innovative ML applications, or anything that combines creativity and code.
-- 🤔 I’m looking for help with image classification using Deepseek, how to tune model using already classified frames.  
+- 🤔 I’m looking for help with learning image classification, how to tune model using already classified frames.  
 - 💬 Ask me about surviving grad school at USC.
 - 📫 How to reach me: Email: 17yuyuncong@gmail.com Linkedin Profile: https://www.linkedin.com/in/jeff-yuncong-yu
 - ⚡ Fun fact: I wanted to be a long-haul truck driver. 
