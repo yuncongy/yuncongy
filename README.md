@@ -9,7 +9,6 @@ I'm a current Computer Science graduate student at the University of Southern Ca
 - 🌱 I’m actively diving deeper into deep learning applications, particularly in the realm of audio processing.
 - 👯 I'm eager to gain a more comprehensive understanding of various audio models such as AudioDec, SoundStream, ChatterBox-TTS, and Index-TTS.
 - 📫 How to reach me: Email: 17yuyuncong@gmail.com Linkedin Profile: https://www.linkedin.com/in/jeff-yuncong-yu
-- ⚡ Fun fact: I wanted to be a long-haul truck driver. 
 
 💻 Tech Stack
 <div align="center">
